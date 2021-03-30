@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "name": "央视",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "url": "https://gitee.com/cf010/ds/raw/master/ys.txt",
+      "type": "txt",
+      "subTitle": "CCTV",
+      "click": true,
+      "autoNext": true,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "地方卫视",
+      "pic": "https://tva1.sinaimg.cn/large/a15b4afegy1fmvjekvk6yj21hc0u0h7x.jpg",
+      "url": "https://gitee.com/cf010/ds/raw/master/ws.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "香港",
+      "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxkc6qp2sj31hc0u0k1p.jpg",
+      "url": "https://gitee.com/cf010/ds/raw/master/xg.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "台湾",
+      "pic": "https://tva4.sinaimg.cn/large/a15b4afely1fnt9plhh8oj21hc0u0dxy.jpg",
+      "url": "https://gitee.com/cf010/ds/raw/master/tw.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "电影",
+      "pic": "https://tva1.sinaimg.cn/large/a15b4afely1fmvj6ly1yqj21hc0u00vv.jpg",
+      "url": "https://gitee.com/cf010/ds/raw/master/dy.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "纪实",
+      "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1fodqgoyhkrj31hc0u0khb.jpg",
+      "url": "https://gitee.com/cf010/ds/raw/master/js.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "体育",
+      "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
+      "url": "https://gitee.com/cf010/ds/raw/master/ty.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "儿童",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
+      "url": "https://gitee.com/cf010/ds/raw/master/et.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "其他",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
+      "url": "https://gitee.com/cf010/ds/raw/master/qt.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    }
+  ]
+}
