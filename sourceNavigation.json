@@ -34,9 +34,20 @@
       "webPlus": {}
     },
     {
+      "name": "香港",
+      "pic": "https://tva4.sinaimg.cn/large/a15b4afely1fnt9plhh8oj21hc0u0dxy.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/jessic01/tv@master/xg.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
       "name": "台湾",
       "pic": "https://tva4.sinaimg.cn/large/a15b4afely1fnt9plhh8oj21hc0u0dxy.jpg",
-      "url": "https://gitee.com/cf010/ds/raw/master/tw.txt",
+      "url": "https://cdn.jsdelivr.net/gh/jessic01/tv@master/tw.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -47,7 +58,7 @@
     {
       "name": "电影",
       "pic": "https://tva1.sinaimg.cn/large/a15b4afely1fmvj6ly1yqj21hc0u00vv.jpg",
-      "url": "https://gitee.com/cf010/ds/raw/master/dy.txt",
+      "url": "https://cdn.jsdelivr.net/gh/jessic01/tv@master/dy.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -58,7 +69,7 @@
     {
       "name": "纪实",
       "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1fodqgoyhkrj31hc0u0khb.jpg",
-      "url": "https://gitee.com/cf010/ds/raw/master/js.txt",
+      "url": "https://cdn.jsdelivr.net/gh/jessic01/tv@master/js.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -69,7 +80,7 @@
     {
       "name": "体育",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://gitee.com/cf010/ds/raw/master/ty.txt",
+      "url": "https://cdn.jsdelivr.net/gh/jessic01/tv@master/ty.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -78,9 +89,9 @@
       "webPlus": {}
     },
     {
-      "name": "儿童",
+      "name": "少儿",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "https://gitee.com/cf010/ds/raw/master/et.txt",
+      "url": "https://cdn.jsdelivr.net/gh/jessic01/tv@master/sl.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -91,7 +102,7 @@
     {
       "name": "其他",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "https://gitee.com/cf010/ds/raw/master/qt.txt",
+      "url": "https://cdn.jsdelivr.net/gh/jessic01/tv@master/qt.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
